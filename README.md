@@ -1,2 +1,2 @@
 # oymotion_robotic
-Robotic projects from OYMotion
+ROS2 projects from OYMotion
